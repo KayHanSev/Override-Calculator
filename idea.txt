@@ -1,0 +1,5 @@
+- Calculator for Override
+
+- Reset button
+- Limit on how many game objects are available
+- Save button on practice matches to store past results and possibly analyze

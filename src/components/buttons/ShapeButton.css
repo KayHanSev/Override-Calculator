@@ -1,0 +1,26 @@
+.shape-button {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+
+    border: 3px solid black;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.shape-button.circle {
+    border-radius: 50%;
+}
+
+.shape-button.diamond {
+    transform: rotate(45deg) scale(0.65);
+}
+
+.shape-button.diamond span {
+    font-display: block;
+    transform: rotate(-45deg);
+}
