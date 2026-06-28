@@ -94,6 +94,7 @@ function Override() {
                 </div>
                 
             </div>
+            <div style={{ marginTop: '20px', fontStyle: 'italic' }}>By Kayra</div>
         </div>
     )
 }
