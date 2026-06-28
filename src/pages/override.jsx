@@ -71,7 +71,7 @@ function Override() {
     return (
         <div>
             <h1 style={{ marginTop: '20px', textAlign: 'center', fontSize: '2rem', fontWeight: '700' }}>Override Calculator</h1>
-            <div style={{ marginTop: '20px', fontStyle: 'italic' }}>By: Kayra Han Sevinc</div>
+            <div style={{ marginTop: '20px',textAlign: 'center', fontStyle: 'italic',fontWeight: '500' }}>By: Kayra Han Sevinc</div>
             <div>Red Total: {redTotal}</div>
             <div>Blue Total: {blueTotal}</div>
 
